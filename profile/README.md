@@ -1,3 +1,5 @@
+![Header](./emo-github-header-optimised.jpg)
+
 Electronic Materials Office® is a future-oriented consumer hardware corporation.
 
 ## Manifesto
